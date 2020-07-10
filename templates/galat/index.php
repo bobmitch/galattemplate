@@ -360,7 +360,7 @@
 		}
 
 		a.page_id_1:after {
-			content:url(/newcms/home.svg);
+			content:url(/home.svg);
 			height: 1em;
 			/* width: 1em; */
 			filter: invert(0.7);
