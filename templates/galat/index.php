@@ -22,6 +22,7 @@
 		html {
 			box-sizing: border-box;
 			font-size: 17px;
+			font-size:clamp(10px,2.2vh, 24px);
 		}
 		*, *:before, *:after {
 		box-sizing: inherit;
